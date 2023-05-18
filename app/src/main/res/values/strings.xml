@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Cupcake</string>
+    <string name="order_cupcakes">Cửa hàng bánh nướng nhỏ</string>
+    <string name="choose_flavor">Choose Flavor</string>
+    <string name="vanilla">Vanilla</string>
+    <string name="chocolate">Chocolate</string>
+    <string name="red_velvet">Red Velvet</string>
+    <string name="salted_caramel">Salted Caramel</string>
+    <string name="coffee">Coffee</string>
+    <string name="special_flavor">Special Flavor</string>
+    <string name="cancel">Trở lại</string>
+    <string name="next">Tiếp tục</string>
+    <string name="choose_pickup_date">Choose Pickup Date</string>
+    <string name="order_summary">Order Summary</string>
+    <string name="send">Gửi hóa đơn xác nhận</string>
+    <string name="quantity">Số lượng bánh</string>
+    <string name="flavor">Hương vị</string>
+    <string name="pickup_date">Ngày nhận hàng</string>
+    <string name="subtotal_price">Dự tính: %s</string>
+    <string name="total_price">Tổng tất cả: %s</string>
+    <string name="new_cupcake_order">New Cupcake Order</string>
+    <string name="order_details">Số lượng bánh: %1$s \nLoại bánh: %2$s \nNgày lấy hàng: %3$s \nTổng: %4$s \n\n Cảm ơn quý khách đã đặt hàng!</string>
+    <string name="order">Đặt hàng</string>
+    <string name="enter_quantity">Nhập số lượng</string>
+    <plurals name="cupcakes">
+        <item quantity="one">%d chiếc</item>
+        <item quantity="other">%d chiếc</item>
+    </plurals>
+</resources>
